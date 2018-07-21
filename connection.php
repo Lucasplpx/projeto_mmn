@@ -3,7 +3,7 @@ global $pdo;
 
 $dns = "mysql:dbname=projeto_mmn;dbhost=localhost";
 $user = "root";
-$pass = "root";
+$pass = "";
 
 
 try{
